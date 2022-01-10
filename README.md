@@ -2,7 +2,8 @@
 first you need to import the dependencies to perform on dataset.
 download stopwords from here:- import nltk
                                nltk.download("stopwords")
-after that you need to load dataset file.
+after that you need to load dataset file from here:-
+https://www.kaggle.com/c/fake-news/data?select=train.csv
 Then perform preprocessing which will help in good prediction.
 After Preprocessing perform Stemming process which is used for reducing a word to its Root word
 ex:- actor, actress, acting --> act
